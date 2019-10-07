@@ -60,7 +60,6 @@ In the next two lectures, we'll install React Native Navigation for both iOS and
 
 All instructions are given in the following lectures but experience shows that problems can arise.
 
-You can skip this lecture for now but please have a look at it if you are facing problems in the next two videos (i.e. with the installation of React Native Navigation).
 
 ---
 
