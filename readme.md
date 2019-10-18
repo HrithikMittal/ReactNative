@@ -201,4 +201,3 @@ With these steps, the application should work - I tested the entire setup
 (including React Native Vector Icons and React Redux) with version 0.59 of React
 Native and had no issues on iOS or Android.
 
-Author - ADHIKANSH MITTAL
